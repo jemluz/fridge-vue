@@ -53,7 +53,7 @@ export default {
 
 <style lang="scss" scoped>
     .introduction {
-        margin-top: 23px;
+        // margin-top: 23px;
         margin-bottom: 12px;
         display: flex;
         flex-direction: column;
