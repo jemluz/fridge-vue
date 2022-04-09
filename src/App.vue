@@ -86,7 +86,7 @@
     padding: 10px 12px;
     color: #00726E;
     background-color: #EAF3F1;
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    box-shadow: rgba(100, 100, 111, 0.05) 0px 7px 29px 0px;
     align-self: center;
   }
 
