@@ -1,0 +1,38 @@
+[
+    {
+        "dateTime": "2021-12-23T11:43:57.034Z",
+        "name": "Couve",
+        "quantity": 2,
+        "isReplacement": false
+    },
+    {
+        "dateTime": "2022-04-09T11:43:57.034Z",
+        "name": "Maçã",
+        "quantity": 8,
+        "isReplacement": true
+    },
+    {
+        "dateTime": "2022-03-31T11:43:57.034Z",
+        "name": "Cenoura",
+        "quantity": 6,
+        "isReplacement": false
+    },
+    {
+        "dateTime": "2022-03-31T11:43:57.034Z",
+        "name": "Cenoura",
+        "quantity": 10,
+        "isReplacement": true
+    },
+    {
+        "dateTime": "2022-03-25T11:43:57.034Z",
+        "name": "Ovos",
+        "quantity": 33,
+        "isReplacement": true
+    },
+    {
+        "dateTime": "2022-03-23T11:43:57.034Z",
+        "name": "Cebola",
+        "quantity": 3,
+        "isReplacement": false
+    }
+]
