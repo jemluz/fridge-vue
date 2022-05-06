@@ -28,7 +28,7 @@
 
 <script>
 export default {
-    name: 'ItemComponent',
+    name: 'TransactionItem',
     props: ['transactionObject'],
     methods: {
         getTime() {
@@ -41,7 +41,6 @@ export default {
             let dateTime = new Date(this.transactionObject.dateTime);
             const day = dateTime.getDay() < 10 ? `0${dateTime.getDay()}` : dateTime.getDay();
             const month = dateTime.getMonth() < 10 ? `0${dateTime.getMonth()}` : dateTime.getMonth();
-            console.log(new Date(null, null, null, 0, 30).toJSON())
             return `${day}/${month}/${dateTime.getFullYear()}`;
         }
     },

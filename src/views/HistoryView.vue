@@ -37,13 +37,6 @@ export default {
     }
   },
   methods: {
-    convertDate() {
-      const jsonData = JSON.stringify(this.date);
-      console.log(jsonData);
-    }
-  },
-  beforeMount() {
-    this.convertDate();
   }
 }
 
