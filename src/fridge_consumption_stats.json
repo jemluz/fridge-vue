@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Maçã",
+        "totalConsumption": 71,
+        "imageUrl": "https://assets.instabuy.com.br/ib.item.image.medium/m-edc6efc8547b47a8829f2997e45a9421.png"
+    },
+    {
+        "name": "Couve",
+        "totalConsumption": 5,
+        "imageUrl": "https://assets.instabuy.com.br/ib.item.image.medium/m-761f9db66b0f4f10904263e1b120e8e6.jpeg"
+    },
+    {
+        "name": "Cebola",
+        "totalConsumption": 27,
+        "imageUrl": "https://assets.instabuy.com.br/ib.item.image.medium/m-b73f139405b748fdaf1615dba491894e.jpeg"
+    },
+    {
+        "name": "Ovos",
+        "totalConsumption": 53,
+        "imageUrl": "https://assets.instabuy.com.br/ib.item.image.medium/m-4f6d958f593c4d07892a0dbee10197a8.png"
+    },
+    {
+        "name": "Cenoura",
+        "totalConsumption": 14,
+        "imageUrl": "https://assets.instabuy.com.br/ib.item.image.medium/m-c5c75f72467b4089997934c21a6295cd.jpeg"
+    }
+]
