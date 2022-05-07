@@ -42,14 +42,14 @@ export default {
         flex-direction: column;
         align-items: center;
         width: 100%;
-        margin: 6vh 0px 1vh 0px;
+        margin: 10vh 0px 1vh 0px;
 
         nav {
             display: flex;
             justify-content: space-between;
-            width: 280px;
+            width: 320px;
 
-            margin-top: 3vh;
+            margin-top: 5vh;
         }
 
         /* estilo padrão link: */
@@ -59,11 +59,12 @@ export default {
             align-items: center;
             color: #D2D2D2;
             transition: all .3s ease-in;
-            font-size: .8rem;
+            font-size: 1.1rem;
         }
 
         .link > svg {
             transition: all .3s ease-in;
+            margin-bottom: 8px;
         }
 
         .fridge_icon,

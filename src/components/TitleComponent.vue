@@ -16,13 +16,15 @@ export default {
         text-align: center;
 
         h1 {
-            font-size: 1.9rem;
+            font-size: 2.4rem;
             color: #000;
+            font-weight: 500;
         }
 
         h3 {
-            font-size: 1.2rem;
+            font-size: 1.4rem;
             color: #000;
+            font-weight: 500;
         }
     }
 

@@ -38,11 +38,13 @@ export default {
         }
 
         .item_info > .item_name {
-            font-size: .8rem;
+            font-size: .9rem;
+            font-weight: 500;
         }
 
         .item_info > .item_unities {
-            font-size: .6rem;
+            font-size: 0.9rem;
+            color: #959595;
         }
     }
 </style>
